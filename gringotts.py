@@ -33,3 +33,5 @@ gringotts = Gringotts()
 gringotts.add_knuts(0)
 gringotts.add_sickles(0)
 gringotts.add_galleons(0)
+
+print(gringotts)
